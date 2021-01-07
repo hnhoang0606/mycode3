@@ -1,0 +1,1 @@
+g++ main.cpp -o main.exe Object/Member.cpp Object/Book.cpp Dataaccess/MemberData.cpp Dataaccess/BookData.cpp Ui/ui.cpp -o main.exe
